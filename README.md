@@ -1,3 +1,4 @@
 # RUZZ-Notes
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/faisalomar/RUZZ-Notes)
+[Notes, Jouranl, Prompts etc sorted by Subject  (Wor in progress)
+1- Need to connect to SQLite Database or MySQL 
